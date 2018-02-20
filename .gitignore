@@ -1,1 +1,8 @@
 .DS_Store
+
+/airnow.json
+archives/*.json
+/data.xml
+/GetAQIDataPublishLives
+
+*.pyc
