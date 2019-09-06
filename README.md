@@ -10,7 +10,7 @@
 * PM2.5, PM10, SO2, NO2, O3, 单位为 μg/m^3.
 * CO单位是 mg/m^3.
 
-基于此数据的~~~[中国实时空气质量地图]~~~(已关闭)
+基于此数据的~~[中国实时空气质量地图]~~(已关闭)
 
 如果使用本方法获取数据，请引用以下论文：
 
@@ -31,7 +31,7 @@ About the Units:
 * For PM2.5, PM10, SO2,NO2, O3, the unit is μg/m^3.
 * For CO, the unit is mg/m^3.
 
-Base on this data, we built ~~~[Air Now:Air Quality Map of China]~~~(shutdown)
+Base on this data, we built ~~[Air Now:Air Quality Map of China]~~(shutdown)
 
 When using the data by this method, give appropriate credit and cite the following paper:
 
